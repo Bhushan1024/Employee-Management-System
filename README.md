@@ -1,5 +1,4 @@
-
-**Employee Management System**
+#Employee Management System
 
 When building a full stack project using Spring for the backend and React for the frontend, I combined the strengths of both technologies to create a robust and responsive web application.
 
@@ -9,6 +8,7 @@ The Employee Management System (EMS) is a full stack web application designed to
 **Technologies Used:**
 
 **Backend (SpringBoot):**
+
 1.Spring Boot Framework:
 The backend is built using the Spring Boot framework, which facilitates the development of robust and scalable Java-based applications.
 
@@ -20,6 +20,7 @@ The system uses a relational database MySQL to store employee data. Hibernate is
 
 
 **Frontend (React):**
+
 1.React Components:
 Create React components to build the user interface. Components can represent various parts of the employee management system, such as employee lists, forms for data input, and dashboards.
 
