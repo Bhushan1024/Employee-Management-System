@@ -1,4 +1,4 @@
-#Employee Management System
+# Employee Management System
 
 When building a full stack project using Spring for the backend and React for the frontend, I combined the strengths of both technologies to create a robust and responsive web application.
 
